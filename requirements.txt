@@ -1,0 +1,6 @@
+aiohttp==3.9.2
+starknet-crypto-py==0.1.0
+starknet.py==0.22.0
+web3==6.11.3
+python-dotenv==1.0.1
+loguru==0.7.3
